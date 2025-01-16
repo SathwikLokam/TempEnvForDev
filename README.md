@@ -1,9 +1,9 @@
 
-# Python Automation Tool
+# TempEnvForDev
 
 ## Overview
 
-The **Python Automation Tool** is a command-line app that helps developers quickly set up and manage environments for Python, Django, Node.js, and more. It automates tasks like environment creation, project scaffolding, editor integration, and cleanup, making development faster and more efficient.
+The **TempEnvForDev** is a command-line app that helps developers quickly set up and manage environments for Python, Django, Node.js, and more. It automates tasks like environment creation, project scaffolding, editor integration, and cleanup, making development faster and more efficient.
 
 ## Features
 
