@@ -3,7 +3,7 @@
 
 ## Overview
 
-**RapidWorkSpace  ** is a command-line application designed for developers to create **temporary workspace folders** that are automatically cleaned up on system startup. It helps streamline development tasks by offering features such as creating temporary project files, supporting multiple programming languages, and integrating with popular code editors (e.g., Visual Studio Code, Sublime Text).
+**RapidWorkSpace** is a command-line application designed for developers to create **temporary workspace folders** that are automatically cleaned up on system startup. It helps streamline development tasks by offering features such as creating temporary project files, supporting multiple programming languages, and integrating with popular code editors (e.g., Visual Studio Code, Sublime Text).
 
 This tool makes it easy for developers to work in isolated, temporary spaces, which are automatically deleted when the system restarts, allowing them to start fresh every time.
 
