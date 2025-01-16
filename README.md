@@ -147,7 +147,7 @@ This configuration ensures that the tool will use Visual Studio Code by default 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://chatgpt.com/LICENSE) file for details.
+This project is licensed under the MIT License
 
 ---
 
