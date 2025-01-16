@@ -17,11 +17,7 @@ The **TempEnvForDev** is a command-line app that helps developers quickly set up
 3. **Open Projects in Editors**:
    - Automatically open newly created project files in the user's preferred code editor (VSCode, Sublime, etc.).
 
-4. **Customizable Templates**:
-   - Use predefined templates for Python, Django, Node.js, and other frameworks to quickly scaffold projects with a specific structure.
 
-5. **Cross-Platform Compatibility**:
-   - The tool is compatible with Windows, Linux, and MacOS platforms.
 
 ---
 
