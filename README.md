@@ -155,13 +155,3 @@ This project is licensed under the MIT License
 
 If you have ideas to improve the tool or have identified an issue, please feel free to submit a pull request.
 
-### How to Contribute:
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
-3. Make your changes.
-4. Commit your changes with meaningful messages.
-5. Push your changes and submit a pull request.
-
----
-
-This updated `README.md` is now more reflective of your project's core functionality: creating temporary spaces for development that are automatically cleaned up on startup. It’s simple, clear, and easy for users and contributors to understand!
