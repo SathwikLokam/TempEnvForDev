@@ -35,7 +35,7 @@ This tool makes it easy for developers to work in isolated, temporary spaces, wh
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/TempEnvForDev.git
+git clone https://github.com/SathwikLokam/TempEnvForDev.git
 cd TempEnvForDev
 ```
 
